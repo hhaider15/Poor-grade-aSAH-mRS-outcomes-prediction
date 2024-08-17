@@ -1,4 +1,4 @@
-# Poor-grade-aSAH-mRS-outcomes-prediction
+# Poor-grade aSAH mRS outcomes prediction
 
 
 State-of-the-Art for Automated Machine Learning Predicts Outcomes in Poor-Grade Aneurysmal Subarachnoid Hemorrhage using Routinely Measured Laboratory & Radiological Parameters: Coagulation Parameters and Liver Function as Key Prognosticators
