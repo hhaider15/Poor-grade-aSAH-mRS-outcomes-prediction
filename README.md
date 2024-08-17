@@ -12,3 +12,5 @@ Algorithmic models developed by Ali Haider Bangash MBBS1,2,3
 3. Montefiore-Einstein Cerebrovascular Research Lab, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY, USA
 
 Data source: https://doi.org/10.1016/j.wneu.2024.01.041
+
+The developed algorithmic models can be downloaded as Pickle objects from https://mega.nz/folder/w7QjjTzb#_obvfnZwXWM1tEy7F6VhIg
